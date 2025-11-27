@@ -2,7 +2,7 @@ name: "hello to pull request in main"
 on: 
     pull_request:
         branches:
-            - main
+          - main
 jobs: 
     build:
         runs-on: ubuntu-latest
