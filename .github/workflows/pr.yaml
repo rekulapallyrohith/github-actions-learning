@@ -1,4 +1,4 @@
-name: "hello to develop branch"
+name: "hello to pull request"
 
 on:
     pull_request:
